@@ -1,0 +1,34 @@
+\begin{center}
+   \scalebox{0.55}{
+   \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+      \hline
+      \faLightbulbO & \cellcolor{black} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black} & \faLightbulbO\\
+      \hline
+      \cellcolor{black}\color{white}{\bf 1} & \phantom{0} & \cellcolor{black}\color{white}{\bf 1} & \faLightbulbO & \cellcolor{black} & \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \cellcolor{black} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2}\\
+      \hline
+      \phantom{0} & \faLightbulbO & \cellcolor{black} & \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \phantom{0} & \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 1} & \cellcolor{black} & \phantom{0}\\
+      \hline
+      \phantom{0} & \cellcolor{black}\color{white}{\bf 2} & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \phantom{0} & \phantom{0} & \cellcolor{black} & \phantom{0} & \phantom{0} & \faLightbulbO & \phantom{0}\\
+      \hline
+      \phantom{0} & \faLightbulbO & \phantom{0} & \cellcolor{black} & \faLightbulbO & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0}\\
+      \hline
+      \phantom{0} & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \phantom{0} & \cellcolor{black}\color{white}{\bf 1} & \phantom{0} & \phantom{0} & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0}\\
+      \hline
+      \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black}\color{white}{\bf 1} & \faLightbulbO & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black} & \faLightbulbO\\
+      \hline
+      \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 3} & \faLightbulbO & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black}\color{white}{\bf 1} & \phantom{0} & \phantom{0} & \phantom{0} & \faLightbulbO & \phantom{0}\\
+      \hline
+      \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \phantom{0} & \faLightbulbO & \cellcolor{black} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 1} & \phantom{0} & \phantom{0} & \cellcolor{black} & \phantom{0}\\
+      \hline
+      \phantom{0} & \cellcolor{black} & \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black} & \faLightbulbO & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black}\color{white}{\bf 1} & \faLightbulbO & \phantom{0} & \phantom{0}\\
+      \hline
+      \phantom{0} & \phantom{0} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \phantom{0} & \phantom{0} & \phantom{0} & \cellcolor{black} & \faLightbulbO & \phantom{0} & \phantom{0} & \cellcolor{black} & \phantom{0}\\
+      \hline
+      \faLightbulbO & \cellcolor{black} & \cellcolor{black}\color{white}{\bf 1} & \phantom{0} & \phantom{0} & \faLightbulbO & \phantom{0} & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \phantom{0} & \phantom{0} & \cellcolor{black} & \phantom{0} & \phantom{0}\\
+      \hline
+      \cellcolor{black}\color{white}{\bf 2} & \phantom{0} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \phantom{0} & \faLightbulbO & \phantom{0} & \cellcolor{black} & \faLightbulbO & \cellcolor{black}\color{white}{\bf 2} & \faLightbulbO & \cellcolor{black}\\
+      \hline
+      \faLightbulbO & \cellcolor{black} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \faLightbulbO & \phantom{0} & \phantom{0} & \cellcolor{black} & \faLightbulbO\\
+      \hline
+   \end{tabular}}
+\end{center}
